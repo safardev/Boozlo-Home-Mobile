@@ -1,0 +1,95 @@
+.header {
+  width: 375px;
+  height: 575px;
+  background: #ffffff;
+  border-radius: 0px 0px 20px 20px;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+}
+section .udet {
+  display: flex;
+}
+section .udet img {
+  width: 30px;
+  height: 30px;
+  margin: 10px 0 0 16px;
+}
+section .udet .det {
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 4px;
+}
+section .udet .det span {
+  font-size: 10px;
+  font-weight: bold;
+}
+section .udet .det p {
+  font-weight: 700;
+  font-size: 8px;
+  color: rgba(80, 80, 80, 0.5);
+}
+section .profile {
+  margin-top: 8px;
+  margin-right: 16px;
+}
+section .profile img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+.header .searchBar {
+  margin-top: 10px;
+}
+.header .searchBar input {
+  width: 343px;
+  height: 35px;
+  margin: 0 16px;
+  background: #f9f9f9;
+  border: none;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.header .searchBar input::placeholder {
+  position: absolute;
+  left: 30px;
+  top: 8px;
+  font-weight: 700;
+  font-size: 16px;
+  color: rgba(80, 80, 80, 0.5);
+}
+.header .item {
+  display: flex;
+}
+.header .item .imagCont {
+  display: flex;
+  flex-direction: column;
+}
+.header .item .imagCont p {
+  font-weight: 700;
+  font-size: 10px;
+}
+.header .banner {
+  margin-top: 20px;
+}
+
+.header .categories .head {
+  margin: 0px 0 0 148px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #5700a9;
+}
+.header .categories .head span {
+  width: 31px;
+  height: 10px;
+  margin-left: 4px;
+  font-weight: 700;
+  font-size: 8px;
+  color: #5700a9;
+  cursor: pointer;
+}
+.header .categories .items{
+  margin: 8px 0 0px 16px;
+}

@@ -1,0 +1,14 @@
+.tp img {
+  width: 342px;
+  height: 350px;
+  margin: 15px 17px 20px 16px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  border-radius: 20px;
+}
+.tp p {
+  width: 94px;
+  height: 19px;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 0 0 12px 141px;
+}

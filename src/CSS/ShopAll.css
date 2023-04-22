@@ -1,0 +1,15 @@
+.shopAll {
+  width: 374px;
+  height: 288px;
+  background-color: white;
+}
+.shopAll .products {
+  display: flex;
+}
+.shopAll .all {
+  width: 70px;
+  margin-top: 15px;
+  margin-left: 157px;
+  font-weight: 700;
+  font-size: 12px;
+}

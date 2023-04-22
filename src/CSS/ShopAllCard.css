@@ -1,0 +1,38 @@
+.cont .box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cont .box img {
+  position: relative;
+  width: 164px;
+  height: 164px;
+  margin: 18px 0 0 16px;
+}
+.cont .box p {
+  font-weight: 700;
+  font-size: 10px;
+  margin-top: 4px;
+}
+.cont .box p:nth-child(3) {
+  margin-top: 2px;
+  color: #9747ff;
+}
+.cont .box p:nth-child(3) span {
+  color: gray;
+}
+.cont button {
+  width: 159px;
+  height: 26px;
+  border: none;
+  color: white;
+  font-size: 8px;
+  background: #721be3;
+  border-radius: 5px;
+  margin: 6px 0 0 18.5px;
+  cursor: pointer;
+}
+.cont button span {
+  margin-right: 3px;
+}
