@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Boozlo-Home-Mobile/static/css/main.f887be6b.css",
+    "main.js": "/Boozlo-Home-Mobile/static/js/main.3c1d9900.js",
+    "static/js/787.8741f9c1.chunk.js": "/Boozlo-Home-Mobile/static/js/787.8741f9c1.chunk.js",
+    "static/media/p2.jpg": "/Boozlo-Home-Mobile/static/media/p2.65b95428b105fa3b5c9c.jpg",
+    "static/media/p3.jpg": "/Boozlo-Home-Mobile/static/media/p3.3e2a7260c5b6e165155e.jpg",
+    "static/media/Component 28.png": "/Boozlo-Home-Mobile/static/media/Component 28.42f0615bc583dbb0ce14.png",
+    "static/media/p4.jpg": "/Boozlo-Home-Mobile/static/media/p4.c557097323cae631cacf.jpg",
+    "static/media/Frame 2495.png": "/Boozlo-Home-Mobile/static/media/Frame 2495.5976bbb495a0c16e090f.png",
+    "static/media/Frame 2472.png": "/Boozlo-Home-Mobile/static/media/Frame 2472.bb4779b7213ae30e0af4.png",
+    "static/media/Frame 2498.png": "/Boozlo-Home-Mobile/static/media/Frame 2498.cdc16d464ea7747cd9a9.png",
+    "static/media/Component 32.png": "/Boozlo-Home-Mobile/static/media/Component 32.3bb339508806fa1f9704.png",
+    "index.html": "/Boozlo-Home-Mobile/index.html",
+    "main.f887be6b.css.map": "/Boozlo-Home-Mobile/static/css/main.f887be6b.css.map",
+    "main.3c1d9900.js.map": "/Boozlo-Home-Mobile/static/js/main.3c1d9900.js.map",
+    "787.8741f9c1.chunk.js.map": "/Boozlo-Home-Mobile/static/js/787.8741f9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f887be6b.css",
+    "static/js/main.3c1d9900.js"
+  ]
+}
